@@ -35,82 +35,84 @@ All logos belong to their respective brands. Please research your brand's guidel
 - Game developers
   - Capcom
 - Linus Media Group
-    - Linus Tech Tips
-    - LTX 2018
-    - Channel Super Fun
-    - TechQuickie
+  - Linus Tech Tips
+  - LTX 2018
+  - Channel Super Fun
+  - TechQuickie
 - Manufacturers
-    - AMD
-    - Apple
-    - Corsair
-    - CyberPower
-    - HP
-    - IBM
-    - iBuyPower
-    - Intel
-    - Kyocera
-    - Lexmark
-    - LG
-    - Logitech
-    - Microsoft
-    - MSI
-    - Nvidia
-    - Samsung
-    - Schiit
-    - Sony
-    - Spin Master
-    - Unicomp
-    - ZBoard
+  - AMD
+  - Apple
+  - Corsair
+  - CyberPower
+  - HP
+  - IBM
+  - iBuyPower
+  - Intel
+  - Kyocera
+  - Lexmark
+  - LG
+  - Logitech
+  - Microsoft
+  - MSI
+  - Nvidia
+  - Samsung
+  - Schiit
+  - Sony
+  - Spin Master
+  - Unicomp
+  - ZBoard
 - Other Companies
-    - dbrand
-    - NASA
-    - The Pirate Bay
+  - dbrand
+  - NASA
+  - The Pirate Bay
 - Products
-    - Amazon Prime Video
-    - AMD Athlon X2
-    - AMD Ryzen
-    - Intel Pentium
-    - Intel Celeron
-    - Nintendo Switch
-    - NVIDIA CUDA
-    - NVIDIA GeForce Experience
-    - NVIDIA G-Sync
-    - NVIDIA SLI
-    - Pandora
-    - Intel Pentium 4
-    - Spotify
-    - Teamspeak 3
+  - Amazon Prime Video
+  - AMD Athlon X2
+  - AMD Ryzen
+  - Intel Pentium
+  - Intel Celeron
+  - Nintendo Switch
+  - NVIDIA CUDA
+  - NVIDIA GeForce Experience
+  - NVIDIA G-Sync
+  - NVIDIA SLI
+  - Pandora
+  - Intel Pentium 4
+  - Spotify
+  - Teamspeak 3
 - Programs, Games and Services
-    - Google Chrome
-    - CraveTV
-    - Discord
-    - Mozilla Firefox
-    - Google Play Music
-    - HBO Now
-    - Hulu (and Hulu Plus)
-    - iHeartRadio
-    - Instagram
-    - Internet Explorer
-    - Microsoft Edge
-    - Mumble
-    - Netflix 
-    - Opera
-    - Razer Comms
-    - Skype
-    - Star Wars Battlefront
-    - Steam
-    - Synergy
-    - TrueCrypt
-    - Tumblr
-    - Twitter
-    - Ventrilo
-    - Windows 10
-    - Windows XP
-    - Xfire
-    - YouTube (and YouTube Premium)
+  - Google Chrome
+  - CraveTV
+  - Discord
+  - Mozilla Firefox
+  - Google Play Music
+  - HBO Now
+  - Hulu (and Hulu Plus)
+  - iHeartRadio
+  - Instagram
+  - Internet Explorer
+  - Microsoft Edge
+  - Mumble
+  - Netflix
+  - Opera
+  - Razer Comms
+  - Skype
+  - Star Wars Battlefront
+  - Steam
+  - Synergy
+  - TrueCrypt
+  - Tumblr
+  - Twitter
+  - Ventrilo
+  - Windows 10
+  - Windows XP
+  - Xfire
+  - YouTube (and YouTube Premium)
 - Software developers
-    - Adobe
-    - Google McAfee
-    - Valve
+  - Adobe
+  - Google McAfee
+  - Valve
+
+~~TODO: Categorize logos into separate folders~~
 
 TODO: Rename all icons to a consistent naming scheme
