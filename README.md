@@ -1,7 +1,6 @@
 # Logos
 
-A collection of mostly tech-related logos that I (Taran Van Hemert) have collected over the last few years of video production. Some of them were remarkably difficult to find in a high enough quality.
-.SVGs are cool and all, but Premiere Pro cannot handle them. So these are almost entirely .pngs with transparent backgrounds.
+A collection of mostly tech-related logos that I (Taran Van Hemert) have collected over the last few years of video production. Some of them were remarkably difficult to find in a high enough quality. `.SVGs` are cool and all, but Premiere Pro cannot handle them. So these are almost entirely `.pngs` with transparent backgrounds.
 
 ## Usage
 
